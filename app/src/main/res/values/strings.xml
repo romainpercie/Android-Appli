@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Majeure Info</string>
+    <string name="enter_light">Enter Light ID #</string>
+    <string name="light">Light Level  :</string>
+    <string name="spinner_title">blbla</string>
+    <string name="image_content_description">ON</string>
+    <string name="lightonoff">Light on/off</string>
+    <string name="list_building">List of Buildings #</string>
+    <string name="action_settings">Settings</string>
+</resources>
